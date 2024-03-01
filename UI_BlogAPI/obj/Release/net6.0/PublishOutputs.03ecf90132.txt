@@ -1,0 +1,11 @@
+D:\dotNet\Testing\BlogTracker\UI_BlogAPI\obj\Release\net6.0\PubTmp\Out\UI_BlogAPI.exe
+D:\dotNet\Testing\BlogTracker\UI_BlogAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\dotNet\Testing\BlogTracker\UI_BlogAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\dotNet\Testing\BlogTracker\UI_BlogAPI\obj\Release\net6.0\PubTmp\Out\UI_BlogAPI.dll
+D:\dotNet\Testing\BlogTracker\UI_BlogAPI\obj\Release\net6.0\PubTmp\Out\UI_BlogAPI.deps.json
+D:\dotNet\Testing\BlogTracker\UI_BlogAPI\obj\Release\net6.0\PubTmp\Out\UI_BlogAPI.runtimeconfig.json
+D:\dotNet\Testing\BlogTracker\UI_BlogAPI\obj\Release\net6.0\PubTmp\Out\UI_BlogAPI.pdb
+D:\dotNet\Testing\BlogTracker\UI_BlogAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\dotNet\Testing\BlogTracker\UI_BlogAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\dotNet\Testing\BlogTracker\UI_BlogAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\dotNet\Testing\BlogTracker\UI_BlogAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

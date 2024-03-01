@@ -1,0 +1,14 @@
+D:\dotNet\Testing\BlogTracker\BlogLib\bin\Debug\BlogLib.exe.config
+D:\dotNet\Testing\BlogTracker\BlogLib\bin\Debug\BlogLib.exe
+D:\dotNet\Testing\BlogTracker\BlogLib\bin\Debug\BlogLib.pdb
+D:\dotNet\Testing\BlogTracker\BlogLib\obj\Debug\BlogLib.csproj.AssemblyReference.cache
+D:\dotNet\Testing\BlogTracker\BlogLib\obj\Debug\BlogLib.csproj.CoreCompileInputs.cache
+D:\dotNet\Testing\BlogTracker\BlogLib\obj\Debug\BlogLib.exe
+D:\dotNet\Testing\BlogTracker\BlogLib\obj\Debug\BlogLib.pdb
+D:\dotNet\Testing\BlogTracker\BlogLib\bin\Debug\EntityFramework.dll
+D:\dotNet\Testing\BlogTracker\BlogLib\bin\Debug\EntityFramework.SqlServer.dll
+D:\dotNet\Testing\BlogTracker\BlogLib\bin\Debug\EntityFramework.xml
+D:\dotNet\Testing\BlogTracker\BlogLib\bin\Debug\EntityFramework.SqlServer.xml
+D:\dotNet\Testing\BlogTracker\BlogLib\obj\Debug\BlogLib.csproj.Up2Date
+D:\dotNet\Testing\BlogTracker\BlogLib\obj\Debug\BlogLib.Migrations.BlogMigration.resources
+D:\dotNet\Testing\BlogTracker\BlogLib\obj\Debug\BlogLib.csproj.GenerateResource.cache

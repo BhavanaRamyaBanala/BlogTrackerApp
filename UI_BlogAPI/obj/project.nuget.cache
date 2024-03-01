@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "pb9n7ME5zP5w8xnWeatPo/hyHN0Z8whlK48DI1G4j/RBdz7qc8xS8ydWsN80PzpH+XKTeAUbq8V/h4OnTV5HjQ==",
+  "success": true,
+  "projectFilePath": "D:\\dotNet\\Testing\\BlogTracker\\UI_BlogAPI\\UI_BlogAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhavanaramya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\bhavanaramya\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\bhavanaramya\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
+    "C:\\Users\\bhavanaramya\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\bhavanaramya\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\bhavanaramya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\bhavanaramya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

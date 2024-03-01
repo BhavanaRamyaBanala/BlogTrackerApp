@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\dotNet\Testing\BlogTracker\UI_BlogAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2024-03-01T01:39:08.5025554Z;True|2024-03-01T06:44:35.3885433+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

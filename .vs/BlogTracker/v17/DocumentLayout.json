@@ -1,0 +1,729 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotNet\\Testing\\BlogTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28178B0-23F4-41BC-BC03-9DE3FE30CF3A}|BlogTests\\BlogTests.csproj|d:\\dotnet\\testing\\blogtracker\\blogtests\\empinfotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28178B0-23F4-41BC-BC03-9DE3FE30CF3A}|BlogTests\\BlogTests.csproj|solutionrelative:blogtests\\empinfotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28178B0-23F4-41BC-BC03-9DE3FE30CF3A}|BlogTests\\BlogTests.csproj|d:\\dotnet\\testing\\blogtracker\\blogtests\\bloginfotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28178B0-23F4-41BC-BC03-9DE3FE30CF3A}|BlogTests\\BlogTests.csproj|solutionrelative:blogtests\\bloginfotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F28178B0-23F4-41BC-BC03-9DE3FE30CF3A}|BlogTests\\BlogTests.csproj|d:\\dotnet\\testing\\blogtracker\\blogtests\\admininfotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F28178B0-23F4-41BC-BC03-9DE3FE30CF3A}|BlogTests\\BlogTests.csproj|solutionrelative:blogtests\\admininfotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\controllers\\empinfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\controllers\\empinfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\controllers\\bloginfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\controllers\\bloginfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\controllers\\admininfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\controllers\\admininfoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|d:\\dotnet\\testing\\blogtracker\\blogtracker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EFAAA8-E8F2-4D06-9C6B-3FFF7DBE7BEA}|UI_BlogAPI\\UI_BlogAPI.csproj|d:\\dotnet\\testing\\blogtracker\\ui_blogapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15EFAAA8-E8F2-4D06-9C6B-3FFF7DBE7BEA}|UI_BlogAPI\\UI_BlogAPI.csproj|solutionrelative:ui_blogapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\shared\\admin_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EFAAA8-E8F2-4D06-9C6B-3FFF7DBE7BEA}|UI_BlogAPI\\UI_BlogAPI.csproj|d:\\dotnet\\testing\\blogtracker\\ui_blogapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{15EFAAA8-E8F2-4D06-9C6B-3FFF7DBE7BEA}|UI_BlogAPI\\UI_BlogAPI.csproj|solutionrelative:ui_blogapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\views\\home\\empfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\home\\empfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\views\\home\\emplogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\home\\emplogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\views\\home\\adminfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\home\\adminfail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\views\\home\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\home\\adminlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\views\\empinfoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\empinfoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\views\\empinfoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\empinfoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|d:\\dotnet\\testing\\blogtracker\\blogtracker\\views\\bloginfoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\bloginfoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|d:\\dotnet\\testing\\blogtracker\\blogtracker\\views\\bloginfoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\bloginfoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|d:\\dotnet\\testing\\blogtracker\\blogtracker\\views\\admininfoes1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\admininfoes1\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|d:\\dotnet\\testing\\blogtracker\\blogtracker\\views\\admininfoes1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\admininfoes1\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|d:\\dotnet\\testing\\blogtracker\\blogtracker\\views\\admininfoes1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\admininfoes1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|d:\\dotnet\\testing\\blogtracker\\blogtracker\\views\\admininfoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\admininfoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|d:\\dotnet\\testing\\blogtracker\\blogtracker\\views\\admininfoes1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\admininfoes1\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEED2E6-66D0-437C-AE9B-BD042DA34299}|BlogLib\\BlogLib.csproj|d:\\dotnet\\testing\\blogtracker\\bloglib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEED2E6-66D0-437C-AE9B-BD042DA34299}|BlogLib\\BlogLib.csproj|solutionrelative:bloglib\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEED2E6-66D0-437C-AE9B-BD042DA34299}|BlogLib\\BlogLib.csproj|d:\\dotnet\\testing\\blogtracker\\bloglib\\bloginitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEED2E6-66D0-437C-AE9B-BD042DA34299}|BlogLib\\BlogLib.csproj|solutionrelative:bloglib\\bloginitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEED2E6-66D0-437C-AE9B-BD042DA34299}|BlogLib\\BlogLib.csproj|d:\\dotnet\\testing\\blogtracker\\bloglib\\empinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEED2E6-66D0-437C-AE9B-BD042DA34299}|BlogLib\\BlogLib.csproj|solutionrelative:bloglib\\empinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEED2E6-66D0-437C-AE9B-BD042DA34299}|BlogLib\\BlogLib.csproj|d:\\dotnet\\testing\\blogtracker\\bloglib\\bloginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEED2E6-66D0-437C-AE9B-BD042DA34299}|BlogLib\\BlogLib.csproj|solutionrelative:bloglib\\bloginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEED2E6-66D0-437C-AE9B-BD042DA34299}|BlogLib\\BlogLib.csproj|d:\\dotnet\\testing\\blogtracker\\bloglib\\admininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEED2E6-66D0-437C-AE9B-BD042DA34299}|BlogLib\\BlogLib.csproj|solutionrelative:bloglib\\admininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\views\\empinfoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\empinfoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\views\\shared\\emp_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\shared\\emp_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\views\\bloginfoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\views\\bloginfoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\empinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\empinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|D:\\dotNet\\Testing\\BlogTracker\\blogtracker\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{039263B2-3650-48DB-B1CB-FBAF400E5EDA}|BlogTracker\\BlogTracker.csproj|solutionrelative:blogtracker\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEED2E6-66D0-437C-AE9B-BD042DA34299}|BlogLib\\BlogLib.csproj|D:\\dotNet\\Testing\\BlogTracker\\bloglib\\migrations\\202402292033244_blogmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCEED2E6-66D0-437C-AE9B-BD042DA34299}|BlogLib\\BlogLib.csproj|solutionrelative:bloglib\\migrations\\202402292033244_blogmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCEED2E6-66D0-437C-AE9B-BD042DA34299}|BlogLib\\BlogLib.csproj|D:\\dotNet\\Testing\\BlogTracker\\bloglib\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DCEED2E6-66D0-437C-AE9B-BD042DA34299}|BlogLib\\BlogLib.csproj|solutionrelative:bloglib\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 26,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmpInfo.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\EmpInfo.cs",
+              "RelativeDocumentMoniker": "BlogTracker\\EmpInfo.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\EmpInfo.cs",
+              "RelativeToolTip": "BlogTracker\\EmpInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:37:39.156Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\UI_BlogAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "UI_BlogAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\UI_BlogAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "UI_BlogAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:59:12.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\BlogInfoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\BlogInfoes\\Index.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\BlogInfoes\\Index.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\BlogInfoes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T05:45:27.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\BlogInfoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\BlogInfoes\\Create.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\BlogInfoes\\Create.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\BlogInfoes\\Create.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAADwvzoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T05:45:23.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\AdminInfoes1\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\AdminInfoes1\\Delete.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\AdminInfoes1\\Delete.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\AdminInfoes1\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T05:44:54.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\AdminInfoes1\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\AdminInfoes1\\Edit.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\AdminInfoes1\\Edit.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\AdminInfoes1\\Edit.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T05:44:16.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\AdminInfoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\AdminInfoes\\Index.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\AdminInfoes\\Index.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\AdminInfoes\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T05:43:33.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\AdminInfoes1\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\AdminInfoes1\\Index.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\AdminInfoes1\\Index.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\AdminInfoes1\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T05:43:27.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\AdminInfoes1\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\AdminInfoes1\\Create.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\AdminInfoes1\\Create.cshtml*",
+              "RelativeToolTip": "BlogTracker\\Views\\AdminInfoes1\\Create.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T05:42:50.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogLib\\Program.cs",
+              "RelativeDocumentMoniker": "BlogLib\\Program.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogLib\\Program.cs",
+              "RelativeToolTip": "BlogLib\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:37:52.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BlogInitializer.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogLib\\BlogInitializer.cs",
+              "RelativeDocumentMoniker": "BlogLib\\BlogInitializer.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogLib\\BlogInitializer.cs",
+              "RelativeToolTip": "BlogLib\\BlogInitializer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwBYAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:34:41.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmpInfo.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogLib\\EmpInfo.cs",
+              "RelativeDocumentMoniker": "BlogLib\\EmpInfo.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogLib\\EmpInfo.cs",
+              "RelativeToolTip": "BlogLib\\EmpInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:33:38.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BlogInfo.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogLib\\BlogInfo.cs",
+              "RelativeDocumentMoniker": "BlogLib\\BlogInfo.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogLib\\BlogInfo.cs",
+              "RelativeToolTip": "BlogLib\\BlogInfo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:30:35.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminInfo.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogLib\\AdminInfo.cs",
+              "RelativeDocumentMoniker": "BlogLib\\AdminInfo.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogLib\\AdminInfo.cs",
+              "RelativeToolTip": "BlogLib\\AdminInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T05:25:18.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\UI_BlogAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "UI_BlogAPI\\Dockerfile",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\UI_BlogAPI\\Dockerfile",
+              "RelativeToolTip": "UI_BlogAPI\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-01T01:15:04.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Dockerfile",
+              "RelativeDocumentMoniker": "BlogTracker\\Dockerfile",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Dockerfile",
+              "RelativeToolTip": "BlogTracker\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-01T01:11:55.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogInfoTest.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTests\\BlogInfoTest.cs",
+              "RelativeDocumentMoniker": "BlogTests\\BlogInfoTest.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTests\\BlogInfoTest.cs",
+              "RelativeToolTip": "BlogTests\\BlogInfoTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:59:04.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminInfoTest.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTests\\AdminInfoTest.cs",
+              "RelativeDocumentMoniker": "BlogTests\\AdminInfoTest.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTests\\AdminInfoTest.cs",
+              "RelativeToolTip": "BlogTests\\AdminInfoTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:55:07.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpInfoTest.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTests\\EmpInfoTest.cs",
+              "RelativeDocumentMoniker": "BlogTests\\EmpInfoTest.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTests\\EmpInfoTest.cs",
+              "RelativeToolTip": "BlogTests\\EmpInfoTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:48:45.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:45:18.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:43:34.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\EmpInfoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\EmpInfoes\\Create.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\EmpInfoes\\Create.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\EmpInfoes\\Create.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvykAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:31:45.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmpLogin.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\EmpLogin.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\Home\\EmpLogin.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\EmpLogin.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\Home\\EmpLogin.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvwsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:27:54.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmpFail.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\EmpFail.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\Home\\EmpFail.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\EmpFail.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\Home\\EmpFail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:26:34.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvx4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:17:23.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "BlogTracker\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:05:33.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\BlogInfoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\BlogInfoes\\Edit.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\BlogInfoes\\Edit.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\BlogInfoes\\Edit.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:03:56.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\EmpInfoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\EmpInfoes\\Delete.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\EmpInfoes\\Delete.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\EmpInfoes\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:03:26.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\EmpInfoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\EmpInfoes\\Index.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\EmpInfoes\\Index.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\EmpInfoes\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-01T00:02:04.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BlogDbContext.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Data\\BlogDbContext.cs",
+              "RelativeDocumentMoniker": "BlogTracker\\Data\\BlogDbContext.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Data\\BlogDbContext.cs",
+              "RelativeToolTip": "BlogTracker\\Data\\BlogDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T23:36:10.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminFail.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\AdminFail.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\Home\\AdminFail.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\AdminFail.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\Home\\AdminFail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T23:14:30.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminLogin.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\AdminLogin.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\Home\\AdminLogin.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Home\\AdminLogin.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\Home\\AdminLogin.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBQAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T23:13:09.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Emp_Layout.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Shared\\Emp_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\Shared\\Emp_Layout.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Shared\\Emp_Layout.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\Shared\\Emp_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T23:03:06.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin_Layout.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Shared\\Admin_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\Shared\\Admin_Layout.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Shared\\Admin_Layout.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\Shared\\Admin_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T22:59:50.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogTracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogTracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAYwF8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-29T22:47:44.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpInfoesController.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Controllers\\EmpInfoesController.cs",
+              "RelativeDocumentMoniker": "BlogTracker\\Controllers\\EmpInfoesController.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Controllers\\EmpInfoesController.cs",
+              "RelativeToolTip": "BlogTracker\\Controllers\\EmpInfoesController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAADwv24AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T22:39:27.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogInfoesController.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Controllers\\BlogInfoesController.cs",
+              "RelativeDocumentMoniker": "BlogTracker\\Controllers\\BlogInfoesController.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Controllers\\BlogInfoesController.cs",
+              "RelativeToolTip": "BlogTracker\\Controllers\\BlogInfoesController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAcwHIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T22:39:07.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminInfoesController.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Controllers\\AdminInfoesController.cs",
+              "RelativeDocumentMoniker": "BlogTracker\\Controllers\\AdminInfoesController.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Controllers\\AdminInfoesController.cs",
+              "RelativeToolTip": "BlogTracker\\Controllers\\AdminInfoesController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAcwG4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T22:32:22.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlogTracker\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlogTracker\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwEgAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T21:58:33.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Model1.edmx",
+              "RelativeDocumentMoniker": "BlogTracker\\Model1.edmx",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogTracker\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "BlogTracker\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-02-29T21:08:21.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "202402292033244_BlogMigration.cs",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogLib\\Migrations\\202402292033244_BlogMigration.cs",
+              "RelativeDocumentMoniker": "BlogLib\\Migrations\\202402292033244_BlogMigration.cs",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogLib\\Migrations\\202402292033244_BlogMigration.cs",
+              "RelativeToolTip": "BlogLib\\Migrations\\202402292033244_BlogMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T20:34:23.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\dotNet\\Testing\\BlogTracker\\BlogLib\\packages.config",
+              "RelativeDocumentMoniker": "BlogLib\\packages.config",
+              "ToolTip": "D:\\dotNet\\Testing\\BlogTracker\\BlogLib\\packages.config",
+              "RelativeToolTip": "BlogLib\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-29T20:25:24.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
